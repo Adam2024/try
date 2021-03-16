@@ -1,0 +1,1038 @@
+{
+ "task": {
+  "id": 1777,
+  "uniqid": "bc9a89cf-bce7-4d55-9ccb-6d97dc6e17ec",
+  "userID": "48cbea2a-101d-45c2-bafc-2ebdf4a59b6c",
+  "userName": "tiberry",
+  "name": "履约-正式任务06",
+  "description": "{\"description\": \"这是任务描述（选填）\", \"instructions\": \"https://powerlawai.oss-cn-beijing.aliyuncs.com/static/%E8%A7%85%E5%BE%8Blogo_108_108.png\"}",
+  "createTime": "2021-03-10 13:26:39",
+  "options": {
+   "markOptions": [
+    {
+     "value": "【支付】",
+     "children": [
+      {
+       "value": "支付主体"
+      },
+      {
+       "value": "支付时间（条件）"
+      },
+      {
+       "value": "支付款项类型"
+      },
+      {
+       "value": "支付金额"
+      },
+      {
+       "value": "支付途径"
+      }
+     ]
+    },
+    {
+     "value": "【返还】",
+     "children": [
+      {
+       "value": "返还主体"
+      },
+      {
+       "value": "返还时间（条件）"
+      },
+      {
+       "value": "返还款项类型"
+      },
+      {
+       "value": "返还金额"
+      }
+     ]
+    },
+    {
+     "value": "【开票】",
+     "children": [
+      {
+       "value": "开票主体"
+      },
+      {
+       "value": "开票时间（条件）"
+      },
+      {
+       "value": "开票类型"
+      },
+      {
+       "value": "开票税率"
+      },
+      {
+       "value": "开票科目"
+      }
+     ]
+    },
+    {
+     "value": "【交付】",
+     "children": [
+      {
+       "value": "交付主体"
+      },
+      {
+       "value": "交付时间（条件）"
+      },
+      {
+       "value": "交付地点"
+      },
+      {
+       "value": "交付内容"
+      },
+      {
+       "value": "交付方式"
+      }
+     ]
+    },
+    {
+     "value": "【验收】",
+     "children": [
+      {
+       "value": "验收主体"
+      },
+      {
+       "value": "验收时间（条件）"
+      },
+      {
+       "value": "验收标准"
+      }
+     ]
+    }
+   ],
+   "questionList": []
+  },
+  "type": {
+   "type": 5,
+   "multiple": true,
+   "tagLimit": 1,
+   "multipleLimit": 2,
+   "filteredFirstLvLabel": []
+  },
+  "extra": {
+   "first": 1,
+   "guide": 0,
+   "limit": 0,
+   "health": 0,
+   "repeat": 2,
+   "limitNum": 0,
+   "maxSpeed": 100,
+   "stopTime": 120,
+   "guideList": [],
+   "guideType": 5.1,
+   "alertEmail": "donggema@powerlaw.ai",
+   "healthType": 0,
+   "healthRatio": 1,
+   "healthInterval": 2
+  },
+  "count": 25,
+  "status": 1,
+  "level": 1,
+  "accesskey": "860385"
+ },
+ "term": [
+  {
+   "termID": 753932,
+   "id": 208348,
+   "content": [
+    {
+     "content": {
+      "name": "HW119.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/6647b63d-fc83-46cb-bb3b-ed646eb05a08"
+     }
+    }
+   ],
+   "createTime": "2021-03-11 11:32:24",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CrkJCgtDTEFVU0VfVFlQRRKpCQo0CgkKAzEwMxAAGAkKBwoDMTA0IAEKCQoDMTA1EAAYGBIFbGFiZWwaDOOAkOS6pOS7mOOAkQo0CgkKAzEzMRAAGD4KBwoDMTMyIAEKCQoDMTMzEAAYcBIFbGFiZWwaDOOAkOS6pOS7mOOAkQo5CgkKAzEwNBAKGBMSBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCjkKCQoDMTMxECMYNBIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLQoJCgMxMDUQCRgXEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQogCgkKAzExMBAAGDYSBWxhYmVsGgzjgJDmlK/ku5jjgJEKIQoKCgMxMTAQNhiIARIFbGFiZWwaDOOAkOaUr+S7mOOAkQo5CgkKAzExMBAAGAcSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjkKCQoDMTEwEAsYJBIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOQoJCgMxMTAQSBhvEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQotCgkKAzExMBAIGAoSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCi0KCQoDMTEwEFwYXhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLQoJCgMxMTAQKhgyEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQotCgkKAzExMBA2GD0SBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCi0KCQoDMTEwEHAYdxIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KMwoJCgMxMTAQMxg1EgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwozCgkKAzExMBBCGEcSBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6LCjMKCQoDMTEwEHgYfRIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKKwoJCgMxMzUQABgyCgkKAzEzNhAAGBkSBWxhYmVsGgzjgJDpqozmlLbjgJEKLQoJCgMxMzEQBRgHEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOS4u+S9kwotCgkKAzEzMhAOGBASBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCi0KCQoDMTMzEAUYbxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrkKLQoJCgMxMzUQBBgGEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwotCgkKAzEzNhAUGBYSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2T",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CugJCgtDTEFVU0VfVFlQRRLYCQo0CgkKAzEwMxAAGAkKBwoDMTA0IAEKCQoDMTA1EAAYGBIFbGFiZWwaDOOAkOS6pOS7mOOAkQo0CgkKAzEzMRAAGD4KBwoDMTMyIAEKCQoDMTMzEAAYcBIFbGFiZWwaDOOAkOS6pOS7mOOAkQo5CgkKAzEwNBAKGBMSBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCjkKCQoDMTMxECMYNBIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLQoJCgMxMDUQCRgXEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQotCgkKAzEzMhAhGCUSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CiAKCQoDMTEwEAAYNhIFbGFiZWwaDOOAkOaUr+S7mOOAkQohCgoKAzExMBA2GIgBEgVsYWJlbBoM44CQ5pSv5LuY44CRCjkKCQoDMTEwEAAYBxIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOQoJCgMxMTAQCxgkEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo5CgkKAzExMBBIGG8SBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCi0KCQoDMTEwEAgYChIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLQoJCgMxMTAQXBheEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwotCgkKAzExMBAqGDISBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCi0KCQoDMTEwEDYYPRIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KLQoJCgMxMTAQcBh3EgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQozCgkKAzExMBAzGDUSBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6LCjMKCQoDMTEwEEIYRxIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKMwoJCgMxMTAQeBh9EgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiworCgkKAzEzNRAAGDIKCQoDMTM2EAAYGRIFbGFiZWwaDOOAkOmqjOaUtuOAkQotCgkKAzEzMRAFGAcSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCi0KCQoDMTMyEA4YEBIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLQoJCgMxMzMQBRhvEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWGheWuuQotCgkKAzEzNRAEGAYSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCi0KCQoDMTM2EBQYFhIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZM=",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 14:05:42"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208348
+  },
+  {
+   "termID": 753926,
+   "id": 208363,
+   "content": [
+    {
+     "content": {
+      "name": "HW122.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/0e3240d4-6388-483d-8e78-8e0178a5f3cf"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 14:27:16",
+   "result": [
+    {
+     "answer": {
+      "form_res": "Cu8JCgtDTEFVU0VfVFlQRRLfCQo5CggKAjEwEAIYBwoGCgIxMSABCgYKAjEyIAEKCAoCMTMQABgnEgVsYWJlbBoM44CQ5Lqk5LuY44CRCjgKCAoCMTEQBRgTEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjEyEAsYDxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKHwoICgIxNhADGDUSBWxhYmVsGgzjgJDmlK/ku5jjgJEKKQoICgIxNxADGCkKCAoCMTgQABgLEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCMTkQAxgwEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCMjAQAxgpEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCMjAQAxgpEgVsYWJlbBoM44CQ5byA56Wo44CRCiwKCAoCMjAQIxgnEgVsYWJlbBoZ44CQ5byA56Wo44CRL+W8gOelqOexu+WeiwosCggKAjIwEBsYHRIFbGFiZWwaGeOAkOW8gOelqOOAkS/lvIDnpajkuLvkvZMKLAoICgIxNhADGAUSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCiwKCAoCMTcQABgVEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwosCggKAjE5EBIYFBIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKOAoICgIxNhAHGBcSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjgKCAoCMTcQAxgSEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjE5EAMYERIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgIxNhAdGDASBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjYKCAoCMTcQGhgpCggKAjE4EAAYBhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KLAoICgIxORAZGCwSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjIKCAoCMTYQMRg0EgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwoyCggKAjE4EAcYCRIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKMgoICgIxORAtGC8SBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6LCjEKCAoCMjIQAhgHCgYKAjIzIAEKCAoCMjQQABggEgVsYWJlbBoM44CQ6aqM5pS244CRCjgKCAoCMjMQAxgSEgVsYWJlbBol44CQ6aqM5pS244CRL+mqjOaUtuaXtumXtO+8iOadoeS7tu+8iQosCggKAjIzEBMYFRIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgIyNBAAGAMSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25qCH5YeG",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208363
+  },
+  {
+   "termID": 753919,
+   "id": 208368,
+   "content": [
+    {
+     "content": {
+      "name": "HW112.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/81c6046f-2fce-435b-9252-79f755e0e182"
+     }
+    }
+   ],
+   "createTime": "2021-03-12 15:19:10",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CroFCgtDTEFVU0VfVFlQRRKqBQpJCggKAjQwEAIYCQoGCgI0MSABCgYKAjQyIAEKBgoCNDMgAQoGCgI0NCABCggKAjQ1EAAYIBIFbGFiZWwaDOOAkOmqjOaUtuOAkQosCggKAjQxECMYKBIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgI0MRBKGGISBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCh8KCAoCNTAQABgREgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNTAQEhgmEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNTAQJxg+EgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCNTAQABgFEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjUwEBIYGxIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgI1MBAwGDwSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCNTAQBxgOEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQosCggKAjUwEB4YJhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KLAoICgI1MBAnGCwSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjIKCAoCNTAQDhgREgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwoyCggKAjUwECwYLxIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnos=",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 14:32:57"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208368
+  },
+  {
+   "termID": 753916,
+   "id": 208374,
+   "content": [
+    {
+     "content": {
+      "name": "HW107.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/87818fdd-106a-4b27-bc6d-0b1285eeaf5a"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 14:41:16",
+   "result": [
+    {
+     "answer": {
+      "form_res": "Cv8HCgtDTEFVU0VfVFlQRRLvBwpBCggKAjUwEAAYCgoGCgI1MSABCgYKAjUyIAEKBgoCNTMgAQoICgI1NBAAGGASBWxhYmVsGgzjgJDkuqTku5jjgJEKLAoICgI1MRAFGCYSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CjgKCAoCNTIQBBgoEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjUyECkYLRIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrkKHwoICgI2OBACGCYSBWxhYmVsGgzjgJDmlK/ku5jjgJEKHwoICgI2ORACGEESBWxhYmVsGgzjgJDmlK/ku5jjgJEKOAoICgI2OBACGA4SBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjgKCAoCNjkQAhg0EgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjY4EA8YERIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLAoICgI2ORAUGBYSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCiwKCAoCNjgQFxghEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQosCggKAjY5EDcYPhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KMgoICgI2OBAiGCUSBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6LCjIKCAoCNjkQPhhAEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwofCggKAjczEAIYEhIFbGFiZWwaDOOAkOW8gOelqOOAkQosCggKAjczEAIYBBIFbGFiZWwaGeOAkOW8gOelqOOAkS/lvIDnpajkuLvkvZMKLAoICgI3MxAKGBESBWxhYmVsGhnjgJDlvIDnpajjgJEv5byA56Wo57G75Z6LClkKCAoCNzYQBRgMCgYKAjc3IAEKBgoCNzggAQoGCgI3OSABCgYKAjgwIAEKBgoCODEgAQoGCgI4MiABCggKAjgzEAAYRhIFbGFiZWwaDOOAkOmqjOaUtuOAkQo4CggKAjc4EAIYCxIFbGFiZWwaJeOAkOmqjOaUtuOAkS/pqozmlLbml7bpl7TvvIjmnaHku7bvvIkKLAoICgI3OBAMGBwSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2T",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208374
+  },
+  {
+   "termID": 753911,
+   "id": 208377,
+   "content": [
+    {
+     "content": {
+      "name": "HW101.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/19448f30-8841-4b87-bc90-8dfb6ebec6d4"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 14:42:29",
+   "result": [
+    {
+     "answer": {
+      "form_res": "Cs4BCgtDTEFVU0VfVFlQRRK+AQokCg0KBzYtNy0wLTAQAhgyEgVsYWJlbBoM44CQ5Lqk5LuY44CRCj0KDQoHNi03LTAtMBAVGDISBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCiQKDQoHNi04LTAtMBACGFwSBWxhYmVsGgzjgJDpqozmlLbjgJEKMQoNCgc2LTgtMC0wEEMYXBIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZM=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208377
+  },
+  {
+   "termID": 753914,
+   "id": 208379,
+   "content": [
+    {
+     "content": {
+      "name": "HW110.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/5e31fe10-7b28-45bc-8994-2ab5d5056bd9"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 14:46:18",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CuEBCgtDTEFVU0VfVFlQRRLRAQo5CggKAjE5EAIYDAoGCgIyMCABCgYKAjIxIAEKCAoCMjIQABgiEgVsYWJlbBoM44CQ5Lqk5LuY44CRCiwKCAoCMjAQBRgcEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwo4CggKAjIxEAUYEBIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgIyMhAEGCESBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208379
+  },
+  {
+   "termID": 753917,
+   "id": 208386,
+   "content": [
+    {
+     "content": {
+      "name": "HW111.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/89c0354b-1b2d-4427-a5ad-f19004ee925c"
+     }
+    }
+   ],
+   "createTime": "2021-03-12 14:59:50",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "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",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 14:54:05"
+      },
+      {
+       "answer": {
+        "form_res": "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",
+        "choice_answer": []
+       },
+       "author": "powe",
+       "createTime": "2021-03-11 13:20:49"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208386
+  },
+  {
+   "termID": 753921,
+   "id": 208390,
+   "content": [
+    {
+     "content": {
+      "name": "HW108.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/fabd2717-88bf-42d1-b56a-c5cd001b98a9"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 14:57:49",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CuMFCgtDTEFVU0VfVFlQRRLTBQomCg8KCTUzLTEyLTEtMBAAGBcSBWxhYmVsGgzjgJDpqozmlLbjgJEKQwoICgI5NxAAGBoKBgoCOTggAQoGCgI5OSABCgcKAzEwMCABCgkKAzEwMRAAGDQSBWxhYmVsGgzjgJDpqozmlLbjgJEKJgoPCgk1My0xMy0xLTAQBRhNEgVsYWJlbBoM44CQ5pSv5LuY44CRCiYKDwoJNTMtMTMtMS0wEDAYTRIFbGFiZWwaDOOAkOaUr+S7mOOAkQozCg8KCTUzLTEzLTEtMBAFGE0SBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCjMKDwoJNTMtMTMtMS0wEAkYTRIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KMwoPCgk1My0xMy0xLTAQRBhNEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQo5Cg8KCTUzLTEzLTEtMBALGE0SBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6LCj8KDwoJNTMtMTMtMS0wEDAYTRIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKKQoICgI5NRAAGBUKCAoCOTYQABgVEgVsYWJlbBoM44CQ5Lqk5LuY44CRCiwKCAoCOTUQCRgUEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQo4CggKAjk2EAkYFBIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgI5NxAEGAYSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCjgKCAoCOTcQBxgVEgVsYWJlbBol44CQ6aqM5pS244CRL+mqjOaUtuaXtumXtO+8iOadoeS7tu+8iQ==",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208390
+  },
+  {
+   "termID": 753928,
+   "id": 208400,
+   "content": [
+    {
+     "content": {
+      "name": "HW102.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/d8de2b9b-5922-4256-be85-1f12ef2b0855"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 15:13:40",
+   "result": [
+    {
+     "answer": {
+      "form_res": "Cs4BCgtDTEFVU0VfVFlQRRK+AQokCg0KBzYtNi0wLTAQAhgxEgVsYWJlbBoM44CQ5Lqk5LuY44CRCj0KDQoHNi02LTAtMBAVGDESBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCiQKDQoHNi03LTAtMBACGFwSBWxhYmVsGgzjgJDpqozmlLbjgJEKMQoNCgc2LTctMC0wEA4YXBIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZM=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208400
+  },
+  {
+   "termID": 753924,
+   "id": 208446,
+   "content": [
+    {
+     "content": {
+      "name": "HW113.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/ea85a9c6-2e28-4e8d-939e-ec925f4d6758"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 15:47:51",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208446
+  },
+  {
+   "termID": 753910,
+   "id": 208487,
+   "content": [
+    {
+     "content": {
+      "name": "HW116.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/81aed3fa-45d7-4cad-92ea-d17371de42de"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 16:00:26",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208487
+  },
+  {
+   "termID": 753909,
+   "id": 208508,
+   "content": [
+    {
+     "content": {
+      "name": "HW120.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/722abc5c-351e-4ee8-910f-49e472d52891"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 16:09:19",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CqIHCgtDTEFVU0VfVFlQRRKSBwo0CgkKAzEwMxACGAkKBwoDMTA0IAEKCQoDMTA1EAAYGBIFbGFiZWwaDOOAkOS6pOS7mOOAkQo5CgkKAzEwNBAJGBISBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCi0KCQoDMTA1EAkYFxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKIAoJCgMxMTAQABg1EgVsYWJlbBoM44CQ5pSv5LuY44CRCiAKCQoDMTEwEDYYRxIFbGFiZWwaDOOAkOaUr+S7mOOAkQotCgkKAzExMBAIGAoSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCjkKCQoDMTEwEAsYJBIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKLQoJCgMxMTAQKhgyEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQotCgkKAzExMBA2GEASBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjMKCQoDMTEwEDMYNRIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKMwoJCgMxMTAQQhhHEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwohCgoKAzExMBBIGIcBEgVsYWJlbBoM44CQ6L+U6L+Y44CRCjkKCQoDMTEwEEgYbxIFbGFiZWwaJeOAkOi/lOi/mOOAkS/ov5Tov5jml7bpl7TvvIjmnaHku7bvvIkKLQoJCgMxMTAQXBheEgVsYWJlbBoZ44CQ6L+U6L+Y44CRL+i/lOi/mOS4u+S9kwotCgkKAzExMBBwGHcSBWxhYmVsGhnjgJDov5Tov5jjgJEv6L+U6L+Y6YeR6aKdCjMKCQoDMTEwEHgYfRIFbGFiZWwaH+OAkOi/lOi/mOOAkS/ov5Tov5jmrL7pobnnsbvlnosKKwoJCgMxMzUQABgyCgkKAzEzNhAAGBkSBWxhYmVsGgzjgJDpqozmlLbjgJEKLQoJCgMxMzUQBBgGEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwotCgkKAzEzNhAUGBYSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2T",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208508
+  },
+  {
+   "termID": 753920,
+   "id": 208514,
+   "content": [
+    {
+     "content": {
+      "name": "HW124.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/07d52441-cbef-4975-9d42-eb9c39af8bdf"
+     }
+    }
+   ],
+   "createTime": "2021-03-12 15:27:43",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CvQFCgtDTEFVU0VfVFlQRRLkBQosCggKAjMwEA0YShIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jmlrnlvI8KLAoICgIzMRAHGBgSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CiwKCAoCMzAQDRgPEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOS4u+S9kwosCggKAjMzEBEYExIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgIzMxAkGCYSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCjgKCAoCMzMQABgLEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjMzECgYNRIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgIzNxAAGBUSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMzcQFhgYEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwpBCggKAjI5EAAYGAoGCgIzMCABCgYKAjMxIAEKBgoCMzIgAQoICgIzMxAAGDoSBWxhYmVsGgzjgJDkuqTku5jjgJEKHwoICgIzNxAAGCoSBWxhYmVsGgzjgJDmlK/ku5jjgJEKLAoICgIzMBASGBYSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5YaF5a65CiwKCAoCMzMQDBgQEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWGheWuuQosCggKAjM3ECYYKRIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrkKMgoICgIzNxAmGCkSBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6L",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CvMDCgtDTEFVU0VfVFlQRRLjAwoxCggKAjI5EAQYGAoGCgIzMCABCggKAjMxEAAYGRIFbGFiZWwaDOOAkOS6pOS7mOOAkQopCggKAjMyEAQYCAoICgIzMxAAGDoSBWxhYmVsGgzjgJDkuqTku5jjgJEKLAoICgIzMBANGEoSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5pa55byPCiwKCAoCMzEQBxgYEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQosCggKAjMwEA0YDxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgIzMxARGBMSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCjgKCAoCMzMQABgLEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQopCggKAjM2EAQYCQoICgIzNxAAGCoSBWxhYmVsGgzjgJDmlK/ku5jjgJEKOAoICgIzNxAAGBUSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMzcQFhgYEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kw==",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 16:13:38"
+      },
+      {
+       "answer": {
+        "form_res": "CvQFCgtDTEFVU0VfVFlQRRLkBQosCggKAjMwEA0YShIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jmlrnlvI8KLAoICgIzMRAHGBgSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CiwKCAoCMzAQDRgPEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOS4u+S9kwosCggKAjMzEBEYExIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgIzMxAkGCYSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCjgKCAoCMzMQABgLEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjMzECgYNRIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgIzNxAAGBUSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMzcQFhgYEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwpBCggKAjI5EAAYGAoGCgIzMCABCgYKAjMxIAEKBgoCMzIgAQoICgIzMxAAGDoSBWxhYmVsGgzjgJDkuqTku5jjgJEKHwoICgIzNxAAGCoSBWxhYmVsGgzjgJDmlK/ku5jjgJEKLAoICgIzMBASGBYSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5YaF5a65CiwKCAoCMzMQDBgQEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWGheWuuQosCggKAjM3ECYYKRIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrkKMgoICgIzNxAmGCkSBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6L",
+        "choice_answer": []
+       },
+       "author": "powe",
+       "createTime": "2021-03-11 15:24:10"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208514
+  },
+  {
+   "termID": 753912,
+   "id": 208530,
+   "content": [
+    {
+     "content": {
+      "name": "HW117.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/1d6ada71-ce56-43a5-b76d-66b0c801a9f2"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 16:26:37",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CrUJCgtDTEFVU0VfVFlQRRKlCQokCg0KBzYtOC0wLTAQAhgIEgVsYWJlbBoM44CQ5Lqk5LuY44CRCiQKDQoHNi04LTAtMRAAGF0SBWxhYmVsGgzjgJDkuqTku5jjgJEKPQoNCgc2LTgtMC0xEAAYXRIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKMQoNCgc2LTgtMC0xEAoYXRIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKJAoNCgc2LTktMC0wEAIYChIFbGFiZWwaDOOAkOmqjOaUtuOAkQokCg0KBzYtOS0wLTEQABgqEgVsYWJlbBoM44CQ6aqM5pS244CRCiQKDQoHNi05LTAtMhAAGGsSBWxhYmVsGgzjgJDpqozmlLbjgJEKMQoNCgc2LTktMC0xEBwYKhIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbmoIflh4YKJQoOCgg2LTEwLTAtMhACGCISBWxhYmVsGgzjgJDmlK/ku5jjgJEKJQoOCgg2LTEwLTAtNRACGCUSBWxhYmVsGgzjgJDmlK/ku5jjgJEKPgoOCgg2LTEwLTAtMhACGCISBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjIKDgoINi0xMC0wLTIQBxgiEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwoyCg4KCDYtMTAtMC01EAIYJRIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKMgoOCgg2LTEwLTAtMhASGCISBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjgKDgoINi0xMC0wLTIQHBgiEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwolCg4KCDYtMTAtMC0zECkYRRIFbGFiZWwaDOOAkOi/lOi/mOOAkQolCg4KCDYtMTAtMC02EAIYFBIFbGFiZWwaDOOAkOi/lOi/mOOAkQo+Cg4KCDYtMTAtMC0zECkYRRIFbGFiZWwaJeOAkOi/lOi/mOOAkS/ov5Tov5jml7bpl7TvvIjmnaHku7bvvIkKPgoOCgg2LTEwLTAtNhACGBQSBWxhYmVsGiXjgJDov5Tov5jjgJEv6L+U6L+Y5pe26Ze077yI5p2h5Lu277yJCjIKDgoINi0xMC0wLTMQLxhFEgVsYWJlbBoZ44CQ6L+U6L+Y44CRL+i/lOi/mOS4u+S9kwoyCg4KCDYtMTAtMC02EAoYFBIFbGFiZWwaGeOAkOi/lOi/mOOAkS/ov5Tov5jkuLvkvZMKOAoOCgg2LTEwLTAtMxA/GEUSBWxhYmVsGh/jgJDov5Tov5jjgJEv6L+U6L+Y5qy+6aG557G75Z6LCjgKDgoINi0xMC0wLTYQEBgUEgVsYWJlbBof44CQ6L+U6L+Y44CRL+i/lOi/mOasvumhueexu+WeiwoyCg4KCDYtMTAtMC00EAIYNhIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrk=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208530
+  },
+  {
+   "termID": 753933,
+   "id": 208544,
+   "content": [
+    {
+     "content": {
+      "name": "HW123.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/0bc51ec8-ee48-4c76-8159-e24e25bfc70a"
+     }
+    }
+   ],
+   "createTime": "2021-03-11 11:20:50",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CpcDCgtDTEFVU0VfVFlQRRKHAwoxCggKAjI5EAQYGAoGCgIzMCABCggKAjMxEAAYGRIFbGFiZWwaDOOAkOS6pOS7mOOAkQopCggKAjMyEAAYCAoICgIzMxAAGB8SBWxhYmVsGgzjgJDkuqTku5jjgJEKLAoICgIzMBAMGEoSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5pa55byPCiwKCAoCMzEQBxgZEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQo4CggKAjMzEAAYCxIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKKQoICgIzNhAEGAkKCAoCMzcQABgmEgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCMzcQABgREgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjM3EBIYFBIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZM=",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CpcDCgtDTEFVU0VfVFlQRRKHAwoxCggKAjI5EAQYGAoGCgIzMCABCggKAjMxEAAYGRIFbGFiZWwaDOOAkOS6pOS7mOOAkQopCggKAjMyEAAYCAoICgIzMxAAGB8SBWxhYmVsGgzjgJDkuqTku5jjgJEKLAoICgIzMBAMGEoSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5pa55byPCiwKCAoCMzEQBxgZEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQo4CggKAjMzEAAYCxIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKKQoICgIzNhAEGAkKCAoCMzcQABgmEgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCMzcQABgREgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjM3EBIYFBIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZM=",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 16:41:59"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208544
+  },
+  {
+   "termID": 753918,
+   "id": 208551,
+   "content": [
+    {
+     "content": {
+      "name": "HW104.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/437193ff-ff0f-4cfb-b403-fb85332cedbe"
+     }
+    }
+   ],
+   "createTime": "2021-03-12 15:07:12",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CtkGCgtDTEFVU0VfVFlQRRLJBgpBCggKAjE3EAQYFgoGCgIxOCABCgYKAjE5IAEKBgoCMjAgAQoICgIyMRAAGCcSBWxhYmVsGgzjgJDkuqTku5jjgJEKNgoICgIxOBACGBIKCAoCMTkQABgVEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwosCggKAjIwEAkYGxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKOAoICgIyMRAKGBwSBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCjEKCAoCMjUQABgKCgYKAjI2IAEKCAoCMjcQABhsEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNjQQAhg4EgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCMjYQCBgeEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjI3EBMYYxIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgIyNxAcGCMSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCkkKCAoCMjgQABgECgYKAjI5IAEKBgoCMzAgAQoGCgIzMSABCgYKAjMyIAEKCAoCMzMQABgOEgVsYWJlbBoM44CQ6aqM5pS244CRCiwKCAoCMjkQERgVEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwo4CggKAjI5EAIYDxIFbGFiZWwaJeOAkOmqjOaUtuOAkS/pqozmlLbml7bpl7TvvIjmnaHku7bvvIkKHwoICgI2NBA5GEgSBWxhYmVsGgzjgJDov5Tov5jjgJEKOAoICgI2NBA9GEISBWxhYmVsGiXjgJDov5Tov5jjgJEv6L+U6L+Y5pe26Ze077yI5p2h5Lu277yJCjIKCAoCNjQQBRgKEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwosCggKAjY0EAwYJxIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0=",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 16:47:50"
+      },
+      {
+       "answer": {
+        "form_res": "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",
+        "choice_answer": []
+       },
+       "author": "powe",
+       "createTime": "2021-03-11 15:15:42"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208551
+  },
+  {
+   "termID": 753913,
+   "id": 208559,
+   "content": [
+    {
+     "content": {
+      "name": "HW121.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/c2f2d870-2468-47c3-9d6f-903a35476aeb"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 16:57:15",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CooHCgtDTEFVU0VfVFlQRRL6Bgo5CggKAjQ1EAIYDAoGCgI0NiABCgYKAjQ3IAEKCAoCNDgQABgoEgVsYWJlbBoM44CQ5Lqk5LuY44CRCiwKCAoCNDYQCBg1EgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwo4CggKAjQ4EAkYJxIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKQQoICgI1NBACGA4KBgoCNTUgAQoGCgI1NiABCgYKAjU3IAEKCAoCNTgQABh/EgVsYWJlbBoM44CQ6aqM5pS244CRCiwKCAoCNTYQCBgiEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuagh+WHhgo4CggKAjU4EAkYFRIFbGFiZWwaJeOAkOmqjOaUtuOAkS/pqozmlLbml7bpl7TvvIjmnaHku7bvvIkKLAoICgI1NxAIGBASBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCh8KCAoCNjAQABg3EgVsYWJlbBoM44CQ5pSv5LuY44CRCiAKCQoCNjAQOBiKARIFbGFiZWwaDOOAkOaUr+S7mOOAkQo4CggKAjYwEAAYEBIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgI2MBBKGHESBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCh8KCAoCNjAQERgcEgVsYWJlbBoM44CQ5byA56Wo44CRCiwKCAoCNjAQERgTEgVsYWJlbBoZ44CQ5byA56Wo44CRL+W8gOelqOS4u+S9kwosCggKAjYwECwYNBIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KLAoICgI2MBByGHkSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjIKCAoCNjAQNRg3EgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwoyCggKAjYwEEQYSRIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKMgoICgI2MBB6GH8SBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6L",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208559
+  },
+  {
+   "termID": 753931,
+   "id": 208709,
+   "content": [
+    {
+     "content": {
+      "name": "HW103.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/d5c18f40-8a9e-4c55-b2f0-3343ea5b9df0"
+     }
+    }
+   ],
+   "createTime": "2021-03-12 14:54:56",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CqUOCgtDTEFVU0VfVFlQRRKVDgofCggKAjQ0EAUYThIFbGFiZWwaDOOAkOS6pOS7mOOAkQo5CggKAjE4EAQYFgoGCgIxOSABCgYKAjIwIAEKCAoCMjEQABgoEgVsYWJlbBoM44CQ5Lqk5LuY44CRCh8KCAoCMjcQCBgkEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCMjgQNhhrEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCMzcQNxhsEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCMzkQNhhtEgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCMjgQNhhjEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjI3EAkYHxIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgIzNxA3GGQSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjgKCAoCMzkQNhhjEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQp6CggKAjI4EAAYbAoGCgIyOSABCgYKAjMwIAEKBgoCMzEgAQoGCgIzMiABCgYKAjMzIAEKBgoCMzQgAQoGCgIzNSABCgYKAjM2IAEKBgoCMzcgAQoGCgIzOCABCgkKAjM5EAAY4AISBWxhYmVsGgzjgJDpqozmlLbjgJEKOAoICgIyOBATGBwSBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCjgKCAoCMzcQFBgdEgVsYWJlbBol44CQ6aqM5pS244CRL+mqjOaUtuaXtumXtO+8iOadoeS7tu+8iQo4CggKAjM5EBMYHBIFbGFiZWwaJeOAkOmqjOaUtuOAkS/pqozmlLbml7bpl7TvvIjmnaHku7bvvIkKOAoICgIzMBACGBISBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCiwKCAoCMjgQHBgwEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwosCggKAjI4EDcYQhIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgIzNxAdGDESBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCiwKCAoCMzcQOBhDEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwosCggKAjM5EBwYMBIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgIzORA3GEISBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCiwKCAoCMzIQAhgEEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwosCggKAjMwEBQYFhIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKHwoICgI2NRACGDsSBWxhYmVsGgzjgJDov5Tov5jjgJEKMgoICgI2NRAFGAoSBWxhYmVsGh/jgJDov5Tov5jjgJEv6L+U6L+Y5qy+6aG557G75Z6LCiwKCAoCNjUQCxgaEgVsYWJlbBoZ44CQ6L+U6L+Y44CRL+i/lOi/mOmHkeminQo4CggKAjY1EDAYNBIFbGFiZWwaJeOAkOi/lOi/mOOAkS/ov5Tov5jml7bpl7TvvIjmnaHku7bvvIkKMgoICgIyOBBnGGsSBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6LCjIKCAoCMzcQaBhsEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwoyCggKAjM5EGkYbRIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKLAoICgI0NBAFGAcSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCiwKCAoCNDQQDxgYEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWGheWuuQosCggKAjY1EB8YKhIFbGFiZWwaGeOAkOi/lOi/mOOAkS/ov5Tov5jkuLvkvZMKLAoICgIxORACGCgSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5pa55byPCiwKCAoCMjAQCBgbEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQo4CggKAjIxEAoYHRIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIk=",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CqsFCgtDTEFVU0VfVFlQRRKbBQo5CggKAjE4EAUYFgoGCgIxOSABCgYKAjIwIAEKCAoCMjEQABgoEgVsYWJlbBoM44CQ5Lqk5LuY44CRCiwKCAoCMTkQAhgoEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwosCggKAjIwEAgYIxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKOAoICgIyMRAKGB0SBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCjEKCAoCMjYQABgKCgYKAjI3IAEKCAoCMjgQABhsEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNjUQAhgqEgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCMjcQCRgfEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQpJCggKAjI5EAAYBAoGCgIzMCABCgYKAjMxIAEKBgoCMzIgAQoGCgIzMyABCggKAjM0EAAYDhIFbGFiZWwaDOOAkOmqjOaUtuOAkQosCggKAjMwEBQYFhIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKOAoICgIzMBACGBISBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCiwKCAoCNjUQDBgaEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQofCggKAjY1ECsYOxIFbGFiZWwaDOOAkOi/lOi/mOOAkQo4CggKAjY1EDAYOBIFbGFiZWwaJeOAkOi/lOi/mOOAkS/ov5Tov5jml7bpl7TvvIjmnaHku7bvvIk=",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 19:48:40"
+      },
+      {
+       "answer": {
+        "form_res": "CqsFCgtDTEFVU0VfVFlQRRKbBQo5CggKAjE4EAUYFgoGCgIxOSABCgYKAjIwIAEKCAoCMjEQABgoEgVsYWJlbBoM44CQ5Lqk5LuY44CRCiwKCAoCMTkQAhgoEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwosCggKAjIwEAgYIxIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKOAoICgIyMRAKGB0SBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCjEKCAoCMjYQABgKCgYKAjI3IAEKCAoCMjgQABhsEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNjUQAhgqEgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCMjcQCRgfEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQpJCggKAjI5EAAYBAoGCgIzMCABCgYKAjMxIAEKBgoCMzIgAQoGCgIzMyABCggKAjM0EAAYDhIFbGFiZWwaDOOAkOmqjOaUtuOAkQosCggKAjMwEBQYFhIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKOAoICgIzMBACGBISBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCiwKCAoCNjUQDBgaEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQofCggKAjY1ECsYOxIFbGFiZWwaDOOAkOi/lOi/mOOAkQo4CggKAjY1EDAYOBIFbGFiZWwaJeOAkOi/lOi/mOOAkS/ov5Tov5jml7bpl7TvvIjmnaHku7bvvIk=",
+        "choice_answer": []
+       },
+       "author": "powe",
+       "createTime": "2021-03-11 11:33:25"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208709
+  },
+  {
+   "termID": 753929,
+   "id": 208722,
+   "content": [
+    {
+     "content": {
+      "name": "HW114.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/cb5602a8-b929-473c-b1b3-b70fcdd75b20"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 19:56:55",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CrQLCgtDTEFVU0VfVFlQRRKkCwoxCggKAjQwEAIYEQoGCgI0MSABCggKAjQyEAAYDxIFbGFiZWwaDOOAkOS6pOS7mOOAkQoxCggKAjgxEAIYBgoGCgI4MiABCggKAjgzEAAYRRIFbGFiZWwaDOOAkOS6pOS7mOOAkQpYCgkKAzE2NxAEGAkKBwoDMTY4IAEKBwoDMTY5IAEKBwoDMTcwIAEKBwoDMTcxIAEKBwoDMTcyIAEKCQoDMTczEAAYPxIFbGFiZWwaDOOAkOS6pOS7mOOAkQo4CggKAjQxEAUYIBIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgI0MhAFGAwSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CiwKCAoCODIQEhgdEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwotCgkKAzE2ORAGGEISBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5pa55byPCi0KCQoDMTcwEAYYOBIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jmlrnlvI8KLQoJCgMxNzEQBhgoEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOaWueW8jwosCggKAjgzEBsYRBIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrkKHwoICgI4NRAFGEoSBWxhYmVsGgzjgJDmlK/ku5jjgJEKIAoJCgMyNDEQBBgbEgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCODUQDRghEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjg1ECQYSRIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KHwoICgI4ORAFGEkSBWxhYmVsGgzjgJDov5Tov5jjgJEKHwoICgI5NBAFGEISBWxhYmVsGgzjgJDov5Tov5jjgJEKLAoICgI4ORAFGBoSBWxhYmVsGhnjgJDov5Tov5jjgJEv6L+U6L+Y5Li75L2TCiwKCAoCODkQBRgHEgVsYWJlbBoZ44CQ6L+U6L+Y44CRL+i/lOi/mOS4u+S9kwosCggKAjk0EBMYFRIFbGFiZWwaGeOAkOi/lOi/mOOAkS/ov5Tov5jkuLvkvZMKLAoICgI4NRANGA8SBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCi0KCQoDMjQxEAcYCRIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLAoICgI4ORAhGEgSBWxhYmVsGhnjgJDov5Tov5jjgJEv6L+U6L+Y6YeR6aKdCiwKCAoCOTQQGxhBEgVsYWJlbBoZ44CQ6L+U6L+Y44CRL+i/lOi/mOmHkeminQoyCggKAjg5ECgYLhIFbGFiZWwaH+OAkOi/lOi/mOOAkS/ov5Tov5jmrL7pobnnsbvlnosKMgoICgI5NBAiGCUSBWxhYmVsGh/jgJDov5Tov5jjgJEv6L+U6L+Y5qy+6aG557G75Z6LCjgKCAoCOTQQBRgSEgVsYWJlbBol44CQ6L+U6L+Y44CRL+i/lOi/mOaXtumXtO+8iOadoeS7tu+8iQogCgkKAzEwNBADGCsSBWxhYmVsGgzjgJDpqozmlLbjgJEKLQoJCgMxMDQQCxgNEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwo5CgkKAzEwNBAOGBUSBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCjMKCQoDMjQxEBUYGhIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnos=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208722
+  },
+  {
+   "termID": 753930,
+   "id": 208740,
+   "content": [
+    {
+     "content": {
+      "name": "HW115.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/713ae792-b43f-4a52-9b90-99a58280e345"
+     }
+    }
+   ],
+   "createTime": "2021-03-11 11:35:42",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CpYGCgtDTEFVU0VfVFlQRRKGBgo5CggKAjMzEAMYBgoGCgIzNCABCgYKAjM1IAEKCAoCMzYQABg5EgVsYWJlbBoM44CQ5Lqk5LuY44CRCjgKCAoCMzQQCRgWEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjM0ECgYKhIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgIzNBAyGDoSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CiwKCAoCMzUQCRgYEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQofCggKAjUzEAMYNBIFbGFiZWwaDOOAkOW8gOelqOOAkQosCggKAjUzEAMYBRIFbGFiZWwaGeOAkOW8gOelqOOAkS/lvIDnpajkuLvkvZMKOAoICgI1MxAGGBUSBWxhYmVsGiXjgJDlvIDnpajjgJEv5byA56Wo5pe26Ze077yI5p2h5Lu277yJCh8KCAoCNTQQAxhKEgVsYWJlbBoM44CQ5pSv5LuY44CRCiAKCQoCNTQQShjAARIFbGFiZWwaDOOAkOaUr+S7mOOAkQosCggKAjU0EBAYEhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLAoICgI1NBBxGHMSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCjgKCAoCNTQQKBg3EgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo5CgkKAjU0EHQYgwESBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjIKCAoCNTQQRxhJEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+Weiwo0CgoKAjU0EIcBGIkBEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+Weiw==",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "CpYGCgtDTEFVU0VfVFlQRRKGBgo5CggKAjMzEAMYBgoGCgIzNCABCgYKAjM1IAEKCAoCMzYQABg5EgVsYWJlbBoM44CQ5Lqk5LuY44CRCjgKCAoCMzQQCRgWEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQosCggKAjM0ECgYKhIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgIzNBAyGDoSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CiwKCAoCMzUQCRgYEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQofCggKAjUzEAMYNBIFbGFiZWwaDOOAkOW8gOelqOOAkQosCggKAjUzEAMYBRIFbGFiZWwaGeOAkOW8gOelqOOAkS/lvIDnpajkuLvkvZMKOAoICgI1MxAGGBUSBWxhYmVsGiXjgJDlvIDnpajjgJEv5byA56Wo5pe26Ze077yI5p2h5Lu277yJCh8KCAoCNTQQAxhKEgVsYWJlbBoM44CQ5pSv5LuY44CRCiAKCQoCNTQQShjAARIFbGFiZWwaDOOAkOaUr+S7mOOAkQosCggKAjU0EBAYEhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLAoICgI1NBBxGHMSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCjgKCAoCNTQQKBg3EgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo5CgkKAjU0EHQYgwESBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjIKCAoCNTQQRxhJEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+Weiwo0CgoKAjU0EIcBGIkBEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+Weiw==",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-10 20:11:37"
+      }
+     ],
+     "author": "powe"
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208740
+  },
+  {
+   "termID": 753915,
+   "id": 208744,
+   "content": [
+    {
+     "content": {
+      "name": "HW106.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/bc007e7f-2f1b-419e-9f14-68155a7bd5df"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:14:08",
+   "result": [
+    {
+     "answer": {
+      "form_res": "Cp8BCgtDTEFVU0VfVFlQRRKPAQofCggKAjE1EAAYLhIFbGFiZWwaDOOAkOaUr+S7mOOAkQo4CggKAjE1EAAYJBIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKMgoICgIxNRAqGC0SBWxhYmVsGh/jgJDmlK/ku5jjgJEv5pSv5LuY5qy+6aG557G75Z6L",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208744
+  },
+  {
+   "termID": 753922,
+   "id": 208756,
+   "content": [
+    {
+     "content": {
+      "name": "HW109.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/560d7392-307b-4089-8245-c86243ecaf21"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:21:28",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CqgLCgtDTEFVU0VfVFlQRRKYCwofCggKAjE3EAIYPxIFbGFiZWwaDOOAkOaUr+S7mOOAkQofCggKAjE4EAIYGxIFbGFiZWwaDOOAkOaUr+S7mOOAkQofCggKAjE4EBwYRxIFbGFiZWwaDOOAkOaUr+S7mOOAkQofCggKAjE5EAIYGxIFbGFiZWwaDOOAkOaUr+S7mOOAkQo4CggKAjE3EAIYIRIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgIxOBACGAcSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCjgKCAoCMTgQHBg4EgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjE5EAIYBxIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgIxNxAiGCQSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCiwKCAoCMTgQCBgKEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwosCggKAjE4EDkYOxIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLAoICgIxORAIGAoSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCjIKCAoCMTcQKxgtEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwoyCggKAjE4EBkYGxIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKHwoICgIxNxAuGD4SBWxhYmVsGgzjgJDlvIDnpajjgJEKHwoICgIxOBBHGFcSBWxhYmVsGgzjgJDlvIDnpajjgJEKLAoICgIxNxAuGDASBWxhYmVsGhnjgJDlvIDnpajjgJEv5byA56Wo5Li75L2TCiwKCAoCMTgQRxhJEgVsYWJlbBoZ44CQ5byA56Wo44CRL+W8gOelqOS4u+S9kwo4CggKAjE3EDAYOBIFbGFiZWwaJeOAkOW8gOelqOOAkS/lvIDnpajml7bpl7TvvIjmnaHku7bvvIkKOAoICgIxOBBJGFESBWxhYmVsGiXjgJDlvIDnpajjgJEv5byA56Wo5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMTgQEBgXEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQosCggKAjE5EA8YFxIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KOQoICgIyMRACGAwKBgoCMjIgAQoGCgIyMyABCggKAjI0EAAYIhIFbGFiZWwaDOOAkOS6pOS7mOOAkQosCggKAjIyEAUYHBIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jmlrnlvI8KOAoICgIyMxAFGA8SBWxhYmVsGiXjgJDkuqTku5jjgJEv5Lqk5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMjQQBRghEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQpBCggKAjI1EAIYCQoGCgIyNiABCgYKAjI3IAEKBgoCMjggAQoICgIyORAAGBUSBWxhYmVsGgzjgJDpqozmlLbjgJEKLAoICgIyNxACGAQSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCiwKCAoCMjkQAhgEEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwosCggKAjI3EAUYDxIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbmoIflh4Y=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208756
+  },
+  {
+   "termID": 753925,
+   "id": 208763,
+   "content": [
+    {
+     "content": {
+      "name": "HW105.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/1e2ed839-af91-4bb5-bbeb-5be89538eef6"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:26:34",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CskICgtDTEFVU0VfVFlQRRK5CApBCggKAjE3EAAYCgoGCgIxOCABCgYKAjE5IAEKBgoCMjAgAQoICgIyMRAAGGASBWxhYmVsGgzjgJDkuqTku5jjgJEKLAoICgIxOBAFGB4SBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CjkKCQoCMTkQBRiKARIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgIyMRAVGD8SBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5YaF5a65ClkKCAoCNDAQBBgMCgYKAjQxIAEKBgoCNDIgAQoGCgI0MyABCgYKAjQ0IAEKBgoCNDUgAQoGCgI0NiABCggKAjQ3EAAYRhIFbGFiZWwaDOOAkOmqjOaUtuOAkQofCggKAjM1EAIYJhIFbGFiZWwaDOOAkOaUr+S7mOOAkQofCggKAjM2EAIYGxIFbGFiZWwaDOOAkOaUr+S7mOOAkQofCggKAjM3EF4YeRIFbGFiZWwaDOOAkOaUr+S7mOOAkQo4CggKAjM1EAIYDhIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgIzNhACGAcSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMzUQDxgREgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwosCggKAjM2EAgYChIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jkuLvkvZMKLAoICgIzNxBeGGASBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY5Li75L2TCiwKCAoCMzUQFxghEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQosCggKAjM2EBAYGhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KLAoICgIzNxBvGHgSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjIKCAoCMzUQIhglEgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwofCggKAjM4EAIYEhIFbGFiZWwaDOOAkOW8gOelqOOAkQosCggKAjM4EAIYBBIFbGFiZWwaGeOAkOW8gOelqOOAkS/lvIDnpajkuLvkvZMKLAoICgIzOBAKGBESBWxhYmVsGhnjgJDlvIDnpajjgJEv5byA56Wo57G75Z6LCiwKCAoCNDIQDBgSEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwo4CggKAjQyEAIYCxIFbGFiZWwaJeOAkOmqjOaUtuOAkS/pqozmlLbml7bpl7TvvIjmnaHku7bvvIk=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208763
+  },
+  {
+   "termID": 753923,
+   "id": 208771,
+   "content": [
+    {
+     "content": {
+      "name": "HW125.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/f4f54802-84fd-4ebf-9300-e7c15962ec7a"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:34:54",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CrgFCgtDTEFVU0VfVFlQRRKoBQopCggKAjkxEAAYFgoICgI5MhAAGBYSBWxhYmVsGgzjgJDkuqTku5jjgJEKQQoICgI5MxAEGBoKBgoCOTQgAQoGCgI5NSABCgYKAjk2IAEKCAoCOTcQABg0EgVsYWJlbBoM44CQ6aqM5pS244CRCiwKCAoCOTEQCRgUEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQo4CggKAjkyEAkYFBIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgI5MxAEGAYSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCiwKCAoCOTYQBBgGEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwo4CggKAjkzEAcYFRIFbGFiZWwaJeOAkOmqjOaUtuOAkS/pqozmlLbml7bpl7TvvIjmnaHku7bvvIkKJgoPCgkxNy0xMC0xLTAQBRg0EgVsYWJlbBoM44CQ5pSv5LuY44CRCiYKDwoJMTctMTAtMS0wEBgYNBIFbGFiZWwaDOOAkOaUr+S7mOOAkQo/Cg8KCTE3LTEwLTEtMBAFGDQSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCj8KDwoJMTctMTAtMS0wEBgYNBIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKMwoPCgkxNy0xMC0xLTAQDxg0EgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQozCg8KCTE3LTEwLTEtMBArGDQSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKd",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208771
+  },
+  {
+   "termID": 753920,
+   "id": 208777,
+   "content": [
+    {
+     "content": {
+      "name": "HW124.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/07d52441-cbef-4975-9d42-eb9c39af8bdf"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:41:37",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CucFCgtDTEFVU0VfVFlQRRLXBQpBCggKAjI5EAAYGAoGCgIzMCABCgYKAjMxIAEKBgoCMzIgAQoICgIzMxAAGDoSBWxhYmVsGgzjgJDkuqTku5jjgJEKHwoICgIzMxAkGDkSBWxhYmVsGgzjgJDkuqTku5jjgJEKLAoICgIzMBANGA8SBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCiwKCAoCMzMQERgTEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOS4u+S9kwosCggKAjMzECQYJhIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgIzMBASGBYSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5YaF5a65CiwKCAoCMzMQDBgQEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWGheWuuQosCggKAjMxEAcYGBIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKLAoICgIzMxAVGB4SBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Zyw54K5CjgKCAoCMzMQABgLEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjMzECgYNRIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKHwoICgIzNxAAGCoSBWxhYmVsGgzjgJDmlK/ku5jjgJEKOAoICgIzNxAAGBUSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCMzcQFhgYEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOS4u+S9kwoyCggKAjM3ECYYKRIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnos=",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "tiberry",
+   "userID": "48cbea2a-101d-45c2-bafc-2ebdf4a59b6c",
+   "type": 0,
+   "user_termID": 208777
+  },
+  {
+   "termID": 753927,
+   "id": 208778,
+   "content": [
+    {
+     "content": {
+      "name": "HW118.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/d590be77-abce-4b16-9156-dac33dbfbce7"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:44:26",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "powe",
+   "userID": "bd064fd6-8ceb-4865-bc79-9ef3c8e5a62f",
+   "type": 0,
+   "user_termID": 208778
+  },
+  {
+   "termID": 753917,
+   "id": 208785,
+   "content": [
+    {
+     "content": {
+      "name": "HW111.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/89c0354b-1b2d-4427-a5ad-f19004ee925c"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 20:49:02",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "tiberry",
+   "userID": "48cbea2a-101d-45c2-bafc-2ebdf4a59b6c",
+   "type": 0,
+   "user_termID": 208785
+  },
+  {
+   "termID": 753918,
+   "id": 208814,
+   "content": [
+    {
+     "content": {
+      "name": "HW104.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/437193ff-ff0f-4cfb-b403-fb85332cedbe"
+     }
+    }
+   ],
+   "createTime": "2021-03-10 21:20:50",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "tiberry",
+   "userID": "48cbea2a-101d-45c2-bafc-2ebdf4a59b6c",
+   "type": 0,
+   "user_termID": 208814
+  },
+  {
+   "termID": 753931,
+   "id": 209414,
+   "content": [
+    {
+     "content": {
+      "name": "HW103.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/d5c18f40-8a9e-4c55-b2f0-3343ea5b9df0"
+     }
+    }
+   ],
+   "createTime": "2021-03-11 17:50:02",
+   "result": [
+    {
+     "answer": {
+      "form_res": "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",
+      "choice_answer": []
+     }
+    }
+   ],
+   "status": 0,
+   "userName": "tiberry",
+   "userID": "48cbea2a-101d-45c2-bafc-2ebdf4a59b6c",
+   "type": 0,
+   "user_termID": 209414
+  },
+  {
+   "termID": 753919,
+   "id": 209456,
+   "content": [
+    {
+     "content": {
+      "name": "HW112.docx",
+      "url": "https://powerlawai.oss-cn-beijing.aliyuncs.com/powerlaw_biao/81c6046f-2fce-435b-9252-79f755e0e182"
+     }
+    }
+   ],
+   "createTime": "2021-03-11 19:05:44",
+   "result": [
+    {
+     "answer": {
+      "form_res": "CpMRCgtDTEFVU0VfVFlQRRKDEQpBCggKAjMwEAAYCwoGCgIzMSABCgYKAjMyIAEKBgoCMzMgAQoICgIzNBAAGBUSBWxhYmVsGgzjgJDpqozmlLbjgJEKUQoICgIzORAAGH8KBgoCNDAgAQoGCgI0MSABCgYKAjQyIAEKBgoCNDMgAQoGCgI0NCABCggKAjQ1EAAYIBIFbGFiZWwaDOOAkOmqjOaUtuOAkQosCggKAjMwEAMYBRIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgIzNBAGGAwSBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCiwKCAoCMzkQQxhHEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwosCggKAjQxECMYKBIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgI0MRBKGGISBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25Li75L2TCiwKCAoCNDMQFhgYEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuS4u+S9kwosCggKAjQ0EDcYOxIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLgoKCgI0NBCNARiSARIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbkuLvkvZMKLAoICgIzORAQGBISBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCiwKCAoCMzkQZBhmEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOS4u+S9kwosCggKAjQ0EBQYFhIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jkuLvkvZMKLAoICgI0NBBcGF4SBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5Li75L2TCjgKCAoCMzkQChgZEgVsYWJlbBol44CQ5Lqk5LuY44CRL+S6pOS7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjQ0EA4YExIFbGFiZWwaJeOAkOS6pOS7mOOAkS/kuqTku5jml7bpl7TvvIjmnaHku7bvvIkKLAoICgIzORAaGBwSBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5YaF5a65CiwKCAoCMzkQbRh+EgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWGheWuuQosCggKAjQ0EBkYLBIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlhoXlrrkKLAoICgI0NBBlGH4SBWxhYmVsGhnjgJDkuqTku5jjgJEv5Lqk5LuY5YaF5a65CiwKCAoCMzkQHhgwEgVsYWJlbBoZ44CQ5Lqk5LuY44CRL+S6pOS7mOWcsOeCuQosCggKAjQ0EC4YNRIFbGFiZWwaGeOAkOS6pOS7mOOAkS/kuqTku5jlnLDngrkKHwoICgIzORAAGH8SBWxhYmVsGgzjgJDkuqTku5jjgJEKHwoICgI0NBAEGH8SBWxhYmVsGgzjgJDkuqTku5jjgJEKOAoICgI0MRAJGBoSBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCjgKCAoCNDMQCxgWEgVsYWJlbBol44CQ6aqM5pS244CRL+mqjOaUtuaXtumXtO+8iOadoeS7tu+8iQo5CgkKAjQ0EH8YigESBWxhYmVsGiXjgJDpqozmlLbjgJEv6aqM5pS25pe26Ze077yI5p2h5Lu277yJCiwKCAoCNDMQIBgkEgVsYWJlbBoZ44CQ6aqM5pS244CRL+mqjOaUtuagh+WHhgosCggKAjQzECcYLBIFbGFiZWwaGeOAkOmqjOaUtuOAkS/pqozmlLbmoIflh4YKLAoICgI0NRAPGB8SBWxhYmVsGhnjgJDpqozmlLbjgJEv6aqM5pS25qCH5YeGCh8KCAoCNTAQABgREgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNTAQEhgmEgVsYWJlbBoM44CQ5pSv5LuY44CRCh8KCAoCNTAQJxg+EgVsYWJlbBoM44CQ5pSv5LuY44CRCjgKCAoCNTAQABgFEgVsYWJlbBol44CQ5pSv5LuY44CRL+aUr+S7mOaXtumXtO+8iOadoeS7tu+8iQo4CggKAjUwEBIYGxIFbGFiZWwaJeOAkOaUr+S7mOOAkS/mlK/ku5jml7bpl7TvvIjmnaHku7bvvIkKOAoICgI1MBAwGDwSBWxhYmVsGiXjgJDmlK/ku5jjgJEv5pSv5LuY5pe26Ze077yI5p2h5Lu277yJCiwKCAoCNTAQBxgOEgVsYWJlbBoZ44CQ5pSv5LuY44CRL+aUr+S7mOmHkeminQosCggKAjUwEB4YJhIFbGFiZWwaGeOAkOaUr+S7mOOAkS/mlK/ku5jph5Hpop0KLAoICgI1MBAnGCwSBWxhYmVsGhnjgJDmlK/ku5jjgJEv5pSv5LuY6YeR6aKdCjIKCAoCNTAQDhgREgVsYWJlbBof44CQ5pSv5LuY44CRL+aUr+S7mOasvumhueexu+WeiwoyCggKAjUwECwYLxIFbGFiZWwaH+OAkOaUr+S7mOOAkS/mlK/ku5jmrL7pobnnsbvlnosKOAoICgI1MBAwGDwSBWxhYmVsGiXjgJDov5Tov5jjgJEv6L+U6L+Y5pe26Ze077yI5p2h5Lu277yJCjIKCAoCNTAQLBgvEgVsYWJlbBof44CQ6L+U6L+Y44CRL+i/lOi/mOasvumhueexu+WeiwosCggKAjUwECcYLBIFbGFiZWwaGeOAkOi/lOi/mOOAkS/ov5Tov5jph5Hpop0KHwoICgI1MBAnGD4SBWxhYmVsGgzjgJDov5Tov5jjgJE=",
+      "choice_answer": []
+     },
+     "old_answers": [
+      {
+       "answer": {
+        "form_res": "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",
+        "choice_answer": []
+       },
+       "createTime": "2021-03-11 18:13:24"
+      }
+     ],
+     "author": "tiberry"
+    }
+   ],
+   "status": 0,
+   "userName": "tiberry",
+   "userID": "48cbea2a-101d-45c2-bafc-2ebdf4a59b6c",
+   "type": 0,
+   "user_termID": 209456
+  }
+ ]
+}
